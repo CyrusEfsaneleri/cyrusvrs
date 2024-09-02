@@ -1,16 +1,16 @@
-[![MasterHead](https://images.unsplash.com/photo-1716654195483-de7a5ad4d23c?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-<h1 align="center">Hi 👋, I'm cyrus</h1>
+![MasterHead](https://images.unsplash.com/photo-1716654195483-de7a5ad4d23c?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<h1 align="center">Hi 👋, I'm Cyrus</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <a href="https://twitter.com/cyrusvrs" target="blank"><img src="https://img.shields.io/twitter/follow/cyrusvrs?logo=twitter&style=for-the-badge" alt="cyrusvrs" /></a> </p>
 
-- 🌱 I’m currently learning **Web Developer, software engineering**
+- 🌱 I’m currently learning **Web Developer, Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CyrusEfsaneleri](https://github.com/CyrusEfsaneleri)
+- 👨‍💻 All of my projects are available at [https://github.com/cyrusvrs](https://github.com/cyrusvrs)
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **cyrusxrd1907@hotmail.com**
+- 📫 How to reach me **efeeneskaya@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
